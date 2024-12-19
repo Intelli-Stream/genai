@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/genai/static/css/main.69462062.css",
+    "main.js": "/genai/static/js/main.4762cd4a.js",
+    "static/media/akshitha.jpg": "/genai/static/media/akshitha.0e564edf7a8bbd62ff4e.jpg",
+    "static/media/sumithra.jpg": "/genai/static/media/sumithra.58d718e259c0da426f61.jpg",
+    "static/media/background1.png": "/genai/static/media/background1.008736386d33daa67958.png",
+    "static/media/api.png": "/genai/static/media/api.d62381ffd010445e7f44.png",
+    "static/media/charan.jpg": "/genai/static/media/charan.59ff4f26ad123d62c8eb.jpg",
+    "static/media/thanmai.jpg": "/genai/static/media/thanmai.d1601f8d134f7069a5ed.jpg",
+    "static/media/incubation.png": "/genai/static/media/incubation.673e46dbbe89b2769d28.png",
+    "static/media/sriraj.jpg": "/genai/static/media/sriraj.75b2a23968623d9c63bd.jpg",
+    "static/media/internship.png": "/genai/static/media/internship.91a3279d3c0db5a786e2.png",
+    "static/media/courses.png": "/genai/static/media/courses.ac728a24de7a6dc4c261.png",
+    "static/media/yeswanth.jpg": "/genai/static/media/yeswanth.656c8a60257a359dae96.jpg",
+    "static/media/ABDUL1.jpg": "/genai/static/media/ABDUL1.cc495a2ce9ac6ba348d4.jpg",
+    "static/media/rasagna.jpg": "/genai/static/media/rasagna.14ad80bc9a0ed11d3200.jpg",
+    "static/media/intellistream.jpg": "/genai/static/media/intellistream.08aeb78b7b8821a2da24.jpg",
+    "static/media/ML_logo.jpg": "/genai/static/media/ML_logo.802be0f46406d2741854.jpg",
+    "static/media/vamshi.jpg": "/genai/static/media/vamshi.2b8d3e5684644a6f44d2.jpg",
+    "static/media/Deeplearning.jpg": "/genai/static/media/Deeplearning.20319dd00d48ebc14c8a.jpg",
+    "static/media/nithya.jpg": "/genai/static/media/nithya.2f51db81c4ab88fd31b5.jpg",
+    "static/media/projects.png": "/genai/static/media/projects.ccd675607cd148df5582.png",
+    "static/media/image1.jpg": "/genai/static/media/image1.a598868f3aafcd59548c.jpg",
+    "static/media/CyberSecurity.jpg": "/genai/static/media/CyberSecurity.012cc77cf068179ab9ab.jpg",
+    "static/media/gowthami.jpg": "/genai/static/media/gowthami.4edfa66391172f830395.jpg",
+    "static/media/image2.jpeg": "/genai/static/media/image2.81877ac445fbdda4e43c.jpeg",
+    "static/media/genai.jpg": "/genai/static/media/genai.0db3b9d15c7ee9bd6035.jpg",
+    "index.html": "/genai/index.html",
+    "main.69462062.css.map": "/genai/static/css/main.69462062.css.map",
+    "main.4762cd4a.js.map": "/genai/static/js/main.4762cd4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69462062.css",
+    "static/js/main.4762cd4a.js"
+  ]
+}
